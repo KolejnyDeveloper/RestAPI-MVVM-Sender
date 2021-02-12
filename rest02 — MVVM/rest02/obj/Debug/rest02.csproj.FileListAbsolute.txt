@@ -1,0 +1,31 @@
+C:\Users\Lenovo\source\repos\rest02\rest02\bin\Debug\rest02.exe.config
+C:\Users\Lenovo\source\repos\rest02\rest02\bin\Debug\rest02.exe
+C:\Users\Lenovo\source\repos\rest02\rest02\bin\Debug\rest02.pdb
+C:\Users\Lenovo\source\repos\rest02\rest02\obj\Debug\rest02.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\rest02\rest02\obj\Debug\MainWindow.g.cs
+C:\Users\Lenovo\source\repos\rest02\rest02\obj\Debug\App.g.cs
+C:\Users\Lenovo\source\repos\rest02\rest02\obj\Debug\rest02_MarkupCompile.cache
+C:\Users\Lenovo\source\repos\rest02\rest02\obj\Debug\rest02_MarkupCompile.lref
+C:\Users\Lenovo\source\repos\rest02\rest02\obj\Debug\MainWindow.baml
+C:\Users\Lenovo\source\repos\rest02\rest02\obj\Debug\rest02.g.resources
+C:\Users\Lenovo\source\repos\rest02\rest02\obj\Debug\rest02.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\rest02\rest02\obj\Debug\rest02.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\rest02\rest02\obj\Debug\rest02.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\rest02\rest02\obj\Debug\rest02.exe
+C:\Users\Lenovo\source\repos\rest02\rest02\obj\Debug\rest02.pdb
+C:\Users\Lenovo\source\repos\rest02 — MVVM\rest02\bin\Debug\rest02.exe.config
+C:\Users\Lenovo\source\repos\rest02 — MVVM\rest02\bin\Debug\rest02.exe
+C:\Users\Lenovo\source\repos\rest02 — MVVM\rest02\bin\Debug\rest02.pdb
+C:\Users\Lenovo\source\repos\rest02 — MVVM\rest02\obj\Debug\MainWindow.g.cs
+C:\Users\Lenovo\source\repos\rest02 — MVVM\rest02\obj\Debug\App.g.cs
+C:\Users\Lenovo\source\repos\rest02 — MVVM\rest02\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Lenovo\source\repos\rest02 — MVVM\rest02\obj\Debug\rest02_MarkupCompile.cache
+C:\Users\Lenovo\source\repos\rest02 — MVVM\rest02\obj\Debug\rest02_MarkupCompile.lref
+C:\Users\Lenovo\source\repos\rest02 — MVVM\rest02\obj\Debug\MainWindow.baml
+C:\Users\Lenovo\source\repos\rest02 — MVVM\rest02\obj\Debug\rest02.g.resources
+C:\Users\Lenovo\source\repos\rest02 — MVVM\rest02\obj\Debug\rest02.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\rest02 — MVVM\rest02\obj\Debug\rest02.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\rest02 — MVVM\rest02\obj\Debug\rest02.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\rest02 — MVVM\rest02\obj\Debug\rest02.exe
+C:\Users\Lenovo\source\repos\rest02 — MVVM\rest02\obj\Debug\rest02.pdb
+C:\Users\Lenovo\source\repos\rest02 — MVVM\rest02\obj\Debug\rest02.csprojAssemblyReference.cache

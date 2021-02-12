@@ -1,0 +1,24 @@
+﻿<Window x:Class="rest02.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:mw="clr-namespace:rest02.ModelWidoku"
+        xmlns:local="clr-namespace:rest02" xmlns:i="http://schemas.microsoft.com/netfx/2009/xaml/presentation"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="500" >
+    <Window.DataContext>
+        <mw:Client1/>
+    </Window.DataContext>
+    <Grid>
+        <Button Content="Wyślij" HorizontalAlignment="Right" Height="25" Margin="0,13,9.6,0" VerticalAlignment="Top" Width="101" Command="{Binding Send}"/>
+        <TextBox HorizontalAlignment="Left" Height="25" Margin="10,13,0,0" TextWrapping="Wrap" Text="{Binding Path=Typ, Mode=TwoWay}" Name="Type" VerticalAlignment="Top" Width="161"/>
+        <TextBox HorizontalAlignment="Left" Height="25" Margin="206,13,0,0" TextWrapping="Wrap" Text="{Binding Path=Lokacja, Mode=TwoWay}" Name="Lokacja" VerticalAlignment="Top" Width="161"/>
+        <TextBox HorizontalAlignment="Left" Height="22" Margin="10,43,0,0" TextWrapping="Wrap" Text="{Binding Path=Mail,Mode=TwoWay}" Name="code" VerticalAlignment="Top" Width="357" AcceptsReturn="True" AcceptsTab="True"/>
+        <TextBox HorizontalAlignment="Left" Height="160" Margin="10,250,0,0" TextWrapping="Wrap" Text="{Binding Path=Logi,Mode=TwoWay}" Name="response" VerticalAlignment="Top" Width="462" IsReadOnly="True" HorizontalScrollBarVisibility="Visible" />
+        <StackPanel HorizontalAlignment="Left" AllowDrop="True" Drop="StackPanel_Drop" Height="99" Margin="10,70,0,0" VerticalAlignment="Top" Width="357" Background="#FFBDBDBD">
+            <Label HorizontalAlignment="Center" Content="Umieść plik z pomiarami tutaj" Margin="0,0,-0.2,0"/>
+        </StackPanel>
+        <TextBlock Name="pliki" HorizontalAlignment="Left" Margin="162,169,0,0" TextWrapping="Wrap" Text="{Binding Path=Pliki, Mode=TwoWay}" VerticalAlignment="Top"/>
+    </Grid>
+</Window>
